@@ -4,4 +4,13 @@
 		font-family: inherit;
 		font-size: 100%;
 	}
+	table, th, td {
+		border: 1px solid black;
+		width: 50%;
+		text-align: center;
+	}
+	th {
+		background-color: #04AA6D;
+		color: white;
+	}
 		
